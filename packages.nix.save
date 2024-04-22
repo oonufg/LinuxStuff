@@ -1,0 +1,30 @@
+{ pkgs, ... }: {
+    nixpkgs.config = {
+        allowUnfree = true;
+    };
+    environment.systemPackages = with pkgs; [
+    #Desktop
+    alacritty
+    wofi
+    librewolf
+    gnome.nautilus
+    gnome.gnome-disk-utility
+    vscode
+    telegram-desktop
+
+    #Coding
+    gcc
+    gdb
+    llvm
+    clang-wrapper
+    lldb
+    cmake
+    go
+
+    #CLI
+    uwufetch
+    ranger
+    wget
+    git
+f    ];
+}
