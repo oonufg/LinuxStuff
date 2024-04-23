@@ -18,7 +18,7 @@
         cmake
 
         #CLI
-        uwufetch
+        fastfetch
         wget
         git
         neovim
