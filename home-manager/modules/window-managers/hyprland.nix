@@ -1,4 +1,16 @@
-{
+{ pkgs, ... }: {
+
+    environment.systemPackages = with pkgs; [
+        #Wayland
+        xwayland
+        wl-clipboard
+        cliphist
+        #WM
+        hyprland
+        xdg-desktop-portal-hyprland
+        waybar
+	    wofi
+    ];
     wayland.windowManager.hyprland = {
         enable = true;
         xwayland.enable = true;
@@ -31,7 +43,7 @@
                 follow_mouse = 1;
 
                 touchpad = {
-                    natural_scroll = yes;
+                    natural_scroll = true;
                     scroll_factor = 0.7;
                 };
                 sensitivity = 0;

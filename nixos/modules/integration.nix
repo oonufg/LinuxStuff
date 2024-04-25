@@ -1,7 +1,7 @@
 {
     imports = [
         ./bootloader.nix
-	./audio.nix
+	    ./audio.nix
         ./connections.nix
         ./wayland-desktop.nix
         ./env.nix
