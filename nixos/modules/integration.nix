@@ -6,5 +6,6 @@
         ./wayland-desktop.nix
         ./env.nix
         ./users.nix
+        ./misc.nix
     ];
 }

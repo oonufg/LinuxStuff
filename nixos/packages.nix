@@ -8,6 +8,10 @@
         telegram-desktop
         alacritty
 
+        #Utils
+        ananicy
+        cpupower
+
         #Coding
         gcc
         gdb
