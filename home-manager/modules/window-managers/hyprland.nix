@@ -7,6 +7,8 @@
         cliphist
         #WM
         hyprland
+        hyprlock
+        hypridle
         xdg-desktop-portal-hyprland
         waybar
 	    wofi
