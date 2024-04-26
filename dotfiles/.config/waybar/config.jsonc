@@ -1,0 +1,15 @@
+{
+	"reload_style_on_change": true,
+	"spacing": 10,
+	"modules-left": [
+		"hyprland/workspaces"
+	],
+
+	"modules-center": [
+		"clock"
+	],
+	"modules-right": [
+		"hyprland/language",
+		"battery"
+	]
+}

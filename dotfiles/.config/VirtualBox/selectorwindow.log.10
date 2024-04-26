@@ -1,0 +1,23 @@
+00:00:00.773734 VirtualBox GUI VM Selector Window 7.0.16 r162802 linux.amd64 (Apr 17 2024 07:13:40) release log
+00:00:00.773738 Log opened 2024-04-22T20:16:24.606475000Z
+00:00:00.773739 Build Type: release
+00:00:00.773743 OS Product: Linux
+00:00:00.773744 OS Release: 6.6.28-1-lts
+00:00:00.773746 OS Version: #1 SMP PREEMPT_DYNAMIC Wed, 17 Apr 2024 10:11:09 +0000
+00:00:00.773798 DMI Product Name: Xiaomi Book Pro 14 2022
+00:00:00.773828 DMI Product Version: 
+00:00:00.773841 Firmware type: UEFI
+00:00:00.774322 Secure Boot: Disabled
+00:00:00.774427 Host RAM: 15173MB (14.8GB) total, 11051MB (10.7GB) available
+00:00:00.774433 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.774434 Process ID: 27914
+00:00:00.774435 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.774580 Qt version: 5.15.13
+00:00:00.777394 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.805533 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.036779 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:02.732111 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 720x450 x 720x450
+00:03:06.188569 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:06.699618 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:18.527449 GUI: UICommon: Handling aboutToQuit request..
+00:06:20.162339 GUI: UICommon: aboutToQuit request handled!
